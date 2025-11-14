@@ -18,6 +18,8 @@ public class Main {
         
         int numeroComplementario = random.nextInt(49) + 1;
         System.out.println("Número complementario: " + numeroComplementario);
+        
+        System.out.println("¡Buena suerte en el sorteo!");
 
     }
 }
